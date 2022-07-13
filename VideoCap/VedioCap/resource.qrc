@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>监控摄像头，摄像头，跟踪.png</file>
+  </qresource>
+</RCC>
